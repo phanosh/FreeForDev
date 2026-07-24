@@ -31,6 +31,8 @@ All the Assets published here are either Free with Premium Plans or Only Free.Yo
 
 [Tiiny.host](https://tiiny.host) - Tiiny Host is the simplest way to share your web project. Get feedback faster.
 
+[host-html](https://host-html.com) - Paste HTML or drop a file and get an instant hosted link (no git, no build step). 
+
 # Icon Fonts
 
 [Boostrap Icons](https://icons.getbootstrap.com) - Official open source SVG icon library for Bootstrap
